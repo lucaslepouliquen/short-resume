@@ -2,16 +2,16 @@ body {
     font-family: 'Calibri', 'Arial', sans-serif;
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     line-height: 1.4;
-    font-size: 11pt;
+    font-size: 10pt;
 }
 
 .header {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     border-bottom: 2px solid #2E75B6;
     padding-bottom: 20px;
     position: relative;
@@ -23,8 +23,8 @@ body {
 }
 
 .header-photo {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     margin-left: 20px;
@@ -32,14 +32,14 @@ body {
 }
 
 .header-content h1 {
-    font-size: 24pt;
+    font-size: 20pt;
     font-weight: bold;
     margin: 0;
     color: #000;
 }
 
 .header-content h2 {
-    font-size: 14pt;
+    font-size: 10pt;
     font-weight: bold;
     margin: 5px 0;
     color: #000;
